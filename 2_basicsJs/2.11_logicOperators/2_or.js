@@ -1,0 +1,1 @@
+alert( alert(1) || 2 || alert(3) ) // выведется alert(1) потом alert(2)
